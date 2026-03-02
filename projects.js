@@ -16,6 +16,14 @@ const projectsData = [
         statusText: "В разработке"
     },
     {
+        title: "Lap Files",
+        titleSecondLine: "Коллаборация с Lap.comp и Заводом Осколки",
+        description: "Совместный проект. Готовим что-то особенное.",
+        link: "",
+        status: "soon",
+        statusText: "Скоро"
+    },
+    {
         title: "Work",
         titleSecondLine: "Коллаборация с Заводом Осколки",
         description: "Совместный проект. Готовим что-то особенное.",
